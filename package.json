@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "shopforgamers",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lordferro.github.io/shopforgamers",
+  "homepage": "https://AlexxxPan.github.io/shopforgamers",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /shopforgamers/"
